@@ -4,9 +4,9 @@ The unofficial sequel to Simply Leo
 # Credits
 - textures
 - smufed
-
+-
 - sound
 - smufed
-
-- lack of funtion
+-
+- lack of function
 - smufed
